@@ -1,4 +1,4 @@
-package com.vkl.testgit;
+package com.syxgo.motor;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
@@ -9,6 +9,6 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        //测试git   222222
+        //测试git   33333
     }
 }

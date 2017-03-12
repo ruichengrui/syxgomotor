@@ -1,4 +1,4 @@
-package com.vkl.testgit;
+package com.syxgo.testgit;
 
 import org.junit.Test;
 
