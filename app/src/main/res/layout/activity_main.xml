@@ -17,12 +17,20 @@
         android:id="@+id/textView" />
 
     <TextView
-        android:text="TextView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_below="@+id/textView"
-        android:layout_alignRight="@+id/textView"
-        android:layout_alignEnd="@+id/textView"
         android:layout_marginTop="20dp"
-        android:id="@+id/textView2" />
+        android:id="@+id/textView2"
+        android:text="hotfix之后修改" />
+
+    <TextView
+        android:text="TextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textView2"
+        android:layout_alignRight="@+id/textView2"
+        android:layout_alignEnd="@+id/textView2"
+        android:layout_marginTop="28dp"
+        android:id="@+id/textView3" />
 </RelativeLayout>
